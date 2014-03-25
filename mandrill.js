@@ -1,0 +1,1 @@
+mandrill = Npm.require("mandrill-api");
